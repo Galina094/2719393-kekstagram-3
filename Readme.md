@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Галина](https://up.htmlacademy.ru/javascript-individual/3/user/2719393).
-* Наставник: `Алексей Хапов`.
+* Наставник: [Алексей Хапов](https://htmlacademy.ru/profile/id118459).
 
 ---
 
